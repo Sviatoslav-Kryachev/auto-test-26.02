@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.tests.TestForm" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-08T16:36:30" hostname="NB370" time="5.876">
+  <properties/>
+  <testcase name="testForm" classname="org.tests.TestForm" time="5.876"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
